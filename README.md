@@ -2,24 +2,24 @@
 
 ## Features (User Stories):
 ### Landing Page:
--   As a user I want to view top 5 rented movies of all times.
--    As a user I want to be able to click on any of the top 5 movies and view its details
--    As a user I want to be able to view top 5 actors that are part of movies that I have in the store
--    As a user I want to be able to view the actor’s details and view their top 5 rented movies
+- Top 5 Rented Movies: On the home page, you'll be able to see the most popular movies that have been rented the most.
+- Movie Details: When you click on any of these top 5 movies, you can view all the details about that movie, such as its plot, cast, and reviews.
+- Top Actors: You'll also see a list of the top 5 actors who have appeared in movies available in the store.
+- Actor Profiles: By clicking on an actor's name, you can view their profile and see a list of their top 5 movies.
 
 ### Movies Page:
--    As a user I want to be able to search a movie by name of film, name of actor, or genre of the film
--    As a user I want to be able to view details of the film
--    As a user I want to be able to rent out a film to a customer
-
+- Movie Search: You can easily search for a specific movie by its name, an actor's name, or by selecting a genre.
+- Movie Details: Clicking on a movie will take you to a page with detailed information about the film, including its cast, synopsis, and user reviews.
+- Rent Movies: If you find a movie you'd like to watch, you can rent it out right from the movie's page.
 
 ### Customers Page:
--    As a user I want view list of customers. 
--    As a user I want the ability to filter/search customers by their customer id, first name or last name. 
--    As a user I want to be able to add new customers that enter the store
--    As a user I want to be able to edit customers details. 
--    As a user I want to be able to delete a customer if they no longer wish to patron at store.
--    As a user I want to be able to view customer details and see the movies they have rented out.
--    As a user I want to be able to indicate that a customer has returned a rented movie.
+- List of Customers: You can access a list of all the customers who have rented movies from the store.
+- Customer Search: It's easy to find a specific customer by searching for their customer ID, first name, or last name.
+- Add New Customers: If new customers visit your store, you can add their information to the system.
+- Edit Customer Details: You have the flexibility to edit a customer's information if needed.
+- Delete Customers: If a customer no longer wishes to patronize your store, you can remove their details from the system.
+- Customer Details: Clicking on a customer's name will display their profile, including a list of movies they have rented.
+- Return Movies: You can indicate when a customer returns a rented movie, ensuring accurate inventory management.
+
 ### Reports link:
--    As a user I want to click this button to generate a PDF report of all my customers who have rented out movies from my store
+- Generate PDF Report: By clicking on the reports link, you can generate a PDF report that lists all the customers who have rented movies from your store. This can be useful for your records or analysis.
